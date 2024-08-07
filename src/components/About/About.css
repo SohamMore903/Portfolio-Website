@@ -1,0 +1,16 @@
+.about-section {
+    font-style: italic;
+    margin-top: 10%;
+}
+
+.hello  {
+    font-size: 8rem;
+    margin-top: 2%;
+    font-style: normal;
+    margin-bottom: 5%;
+}
+
+.about {
+    margin-bottom: 10%;
+    font-size: 20px;
+}
